@@ -1,0 +1,12 @@
+{
+  "$schema": "../schemas/profile.schema.json",
+  "github": "octocat",
+  "displayName": "Frank",
+  "tagline": "Frank",
+  "interests": ["Linux", "Backend", "Cyber-Sec"],
+  "faction": {
+    "os": "linux",
+    "browser": "chrome",
+    "editor": "Zed"
+  }
+}
