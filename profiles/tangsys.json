@@ -1,10 +1,10 @@
 {
-    "$schema": "https://github.com/candytangsys",
+    "$schema": "../schemas/profile.schema.json",
     "github": "tangsys",
     "displayName": "tang yu",
-    "tagline": "tang yu",
+    "tagline": "哈哈哈",
     "interests": [
-        "JAVA",
+        "後端",
         "AI",
         "AR"
     ],
