@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "omgowo",
+    "displayName": "湘耀",
+    "tagline": "人類",
+    "interests": [
+        "畫圖",
+        "AI"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}

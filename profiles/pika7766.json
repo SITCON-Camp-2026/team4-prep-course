@@ -1,0 +1,15 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "pika7766",
+    "displayName": "pika",
+    "tagline": "pika",
+    "interests": [
+        "AI",
+        "軟體工程"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "chrome",
+        "editor": "vscode"
+    }
+}
