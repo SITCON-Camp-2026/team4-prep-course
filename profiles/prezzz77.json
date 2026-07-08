@@ -1,0 +1,14 @@
+{
+    "$schema": "../schemas/profile.schema.json",
+    "github": "prezzz77",
+    "displayName": "蔡嘉和",
+    "tagline": "哇咔咔咔",
+    "interests": [
+        "FFT"
+    ],
+    "faction": {
+        "os": "windows",
+        "browser": "edge",
+        "editor": "visualstudio"
+    }
+}
